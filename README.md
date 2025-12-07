@@ -2,6 +2,9 @@
 
 A Tampermonkey user script that simplifies the repository deletion process on GitHub. Instead of typing the full repository name to confirm deletion, this script provides a simple confirmation checkbox.
 
+## [GreasyFork link](https://greasyfork.org/en/scripts/558255-github-repository-removal-simplifier)
+
+
 ## Features
 
 - **Automatic Detection**: Automatically detects the "Delete repository" modal.
